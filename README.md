@@ -9,6 +9,5 @@ This project was made in educational purposes
 
 
 p.s.
-####
-change for images if needed
-####
+
+images/video will not be uploaded
